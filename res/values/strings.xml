@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">demo</string>
+    <string name="sub1">placeholder</string>
+    <string name="sub2">placeholder</string>
+    <string name="sub3">placeholder</string>
+    <string name="sub4">placeholder</string>
+    <string name="sub5">placeholder</string>
+    <string name="sub6">placeholder</string>
+    <string name="sub7">placeholder</string>
+    <string name="sub8">placeholder</string>
+    <string name="sub9">placeholder</string>
+       <string name="sub10">placeholder</string>
+   
+    <string name="action_settings">Settings</string>
+
+</resources>
